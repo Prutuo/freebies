@@ -2,9 +2,6 @@
 * Packages
 * Models
 * Scripts
-* Models
-* Skys
-* Textures
 * Shaders
 > [!NOTE]
-> Install the .unitypackage in releases
+> Install the .unitypackage in [Releases](https://github.com/Prutuo/freebies/releases)
